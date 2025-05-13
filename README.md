@@ -1,3 +1,5 @@
+![Cabecera](https://github.com/user-attachments/assets/8002e6fe-211f-4858-b3b1-e98dcce71a94)
+
 # ⛽ Repostame - Estación de Servicios
 
 **Aplicación web desarrollada con React y Tailwind CSS** que permite simular el proceso de repostaje en una estación de servicios. Pensada como ejemplo educativo para prácticas con interfaces modernas, componentes reutilizables y lógica interactiva.
