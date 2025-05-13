@@ -1,0 +1,5 @@
+export const FUEL_PRICES = {
+  GASOLINA_95: 1.53,
+  GASOIL_PLUS: 1.687,
+  GASOIL_PLUS_EXCELENT: 1.548
+};
