@@ -33,3 +33,31 @@ Clona el proyecto y ejecuta:
 ```bash
 npm install
 npm start
+
+La aplicación se abrirá automáticamente en:
+http://localhost:3000
+
+📁 Estructura del proyecto
+
+📁 public/
+  └── index.html
+📁 src/
+  ├── components/
+  │   ├── ConfirmationModal.js
+  │   ├── FuelPriceDisplay.js
+  │   ├── FuelTypeSelector.js
+  │   ├── InvoiceForm.js
+  │   ├── QuantityInput.js
+  │   └── SurtidorSelector.js
+  ├── mock/
+  │   ├── fuelPrices.js
+  │   └── surtidores.js
+  ├── App.js
+  ├── styles.css
+📄 package.json
+📄 tailwind.config.js
+
+👨‍💻 Autor
+Proyecto realizado por José Antonio Herrera Soto
+📚 Estudiante de 2º DAM — Cesur Sevilla
+🧠 Proyecto educativo con fines prácticos
